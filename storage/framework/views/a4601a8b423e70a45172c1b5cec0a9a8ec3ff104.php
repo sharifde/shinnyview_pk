@@ -1,0 +1,1 @@
+<h1>asddf</h1><?php /**PATH C:\xampp\htdocs\shinnyview_pk\storage\framework\views/1e588b572d1a909cb595f9820c755ccf7bc7383c.blade.php ENDPATH**/ ?>

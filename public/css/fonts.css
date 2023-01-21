@@ -1,0 +1,77 @@
+@font-face {
+    font-family: roboto;
+    src: url('../fonts/web/Roboto-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url('../fonts/web/Roboto-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url('../fonts/web/Roboto-Medium.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url('../fonts/web/Roboto-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url('../fonts/web/Roboto-Italic.ttf');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url('../fonts/web/Roboto-BoldItalic.ttf');
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: AlfaSlabOne;
+    src: url('../fonts/web/AlfaSlabOne-Regular.ttf');
+    font-style: normal;
+}
+@font-face {
+    font-family: rtlFont;
+    src: url('../fonts/web/markzai.woff2');
+    font-style: normal;
+}
+.f-alpha {
+    font-family: AlfaSlabOne;
+}
+
+.f-light {
+    font-weight: 300;
+}
+
+.f-normal {
+    font-weight: 400;
+}
+
+.f-medium {
+    font-weight: 600;
+}
+
+.f-bold {
+    font-weight: 700;
+}
+.f-r-italic{
+    font-style: italic;
+}
+.f-b-italic{
+    font-style: italic;
+    font-weight: 700;
+}

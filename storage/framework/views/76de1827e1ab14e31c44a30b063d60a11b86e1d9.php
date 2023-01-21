@@ -1,0 +1,1 @@
+alksdjf<?php /**PATH C:\xampp\htdocs\shinnyview_pk\storage\framework\views/ce8ce25f715fb7f52ae357afc7a5d308f10db53a.blade.php ENDPATH**/ ?>
